@@ -1,7 +1,0 @@
-com/thuduyen07/diceroller/BuildConfig.java
- com.thuduyen07.diceroller.BuildConfig
-com/thuduyen07/diceroller/MainActivity.java
- com.thuduyen07.diceroller.MainActivity
- com.thuduyen07.diceroller.MainActivity$1
- com.thuduyen07.diceroller.MainActivity$2
- com.thuduyen07.diceroller.MainActivity$3
